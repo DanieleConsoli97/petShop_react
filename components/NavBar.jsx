@@ -1,3 +1,4 @@
+//NOTE - Aggiungere logica,rotte corrette,active
 import Logo from "/Planet_1.png"
 const NavBar = ()=>{
     return(
