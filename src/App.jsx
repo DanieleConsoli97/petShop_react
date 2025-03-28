@@ -4,7 +4,7 @@ function App() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#"><img className="rounded-circle img-fluid" src="../public/0ba4476e-3294-4790-9658-ee3e6cb83519.webp"  width="30" height="24"/></a>
+          <a className="navbar-brand" href="#"><img className="rounded-circle img-fluid" src="../public/Planet_1.png"  width="30" height="24"/></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
